@@ -29,7 +29,8 @@ bash shono1se.sh
 
 
 
-![Screenshot from 2022-07-06 13-44-17](https://user-images.githubusercontent.com/98566890/177535118-7168b3fe-279d-476b-82a1-11ec01d4b319.png)
+![giphy (8)](https://user-images.githubusercontent.com/98566890/177536750-434b6ae2-dd69-4074-8544-62f26ebb105e.gif)
+
 
 
 ![Screenshot from 2022-07-06 13-45-48](https://user-images.githubusercontent.com/98566890/177535157-e3c4337d-c22b-4d9b-9d87-eedd45e32b4e.png)
