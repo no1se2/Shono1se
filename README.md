@@ -1,7 +1,6 @@
 # Shono1se
 I Made a script based on the shodan API to make things easier for noobs
 
-i worked 2 days so please give me credit if you trying to impress your girlfriend
 -----------------------------------------------------
 
 HOW TO INSTALL:                                     
@@ -53,7 +52,6 @@ bash shono1se.sh
 
 ![Screenshot from 2022-07-06 13-46-34](https://user-images.githubusercontent.com/98566890/177535369-b437b85f-d1f7-47fd-9129-800c4023ac92.png)
 
-FUCK MY LIFE I STILL WANT TO DIE I WILL DO IT DONT WORRY BYE
 
 
 
